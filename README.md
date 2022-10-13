@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JethinKumar98
 - 👀 I’m interested in ... Coding 
-- 🌱 I’m currently learning ...Data Piplining
+- 🌱 I’m currently learning ...Data pipelining
 - 💞️ I’m looking to collaborate on ... different Data related projects
 - 📫 How to reach me ... Gmail---jethinkumar98@gmail.com
 
